@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://krishna-portfolio-navy.vercel.app/sitemap.xml

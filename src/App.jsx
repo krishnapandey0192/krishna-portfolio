@@ -14,11 +14,11 @@ export default function App() {
           <title>Krishna Pandey - Full-Stack Developer Portfolio</title>
           <meta
             name="description"
-            content="Showcasing projects and skills of Krishna Pandey, a React developer with expertise in building modern web applications."
+            content="Your ideas, my React skills—together, we build web magic! Showcasing projects and skills of Krishna Pandey, a Full-Stack Developer with expertise in building modern web applications."
           />
           <meta
             name="keywords"
-            content="React Developer, Portfolio, Full-Stack Developer, JavaScript, Web Developer"
+            content="React Developer, Portfolio, Full-Stack Developer, JavaScript, Web Developer, Krishna Pandey Portfolio"
           />
           <meta name="author" content="Krishna Pandey" />
           <meta name="robots" content="index, follow" />

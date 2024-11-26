@@ -18,7 +18,7 @@ export default function App() {
           />
           <meta
             name="keywords"
-            content="React Developer, Portfolio, Full-Stack Developer, JavaScript, Web Developer, Krishna Pandey Portfolio"
+            content="React Developer, Portfolio, Full-Stack Developer, JavaScript, Web Developer, Krishna Pandey Portfolio, krishna portfolio"
           />
           <meta name="author" content="Krishna Pandey" />
           <meta name="robots" content="index, follow" />
